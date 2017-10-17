@@ -1,0 +1,94 @@
+/**body
+{
+	background-color: #f2f2f2;
+}**/
+
+.logo
+{
+	float: left;
+}
+
+#background
+{
+	background-image: url('img/bg.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin-top: 70px;
+	height: 590px;
+	background-color: black;
+}
+
+#photodiary
+{
+	padding-left: 5%;
+	padding-right: 5%;
+	font-family: Arial;
+	background-color: #f2f2f2;
+	color: #b3b3b3;
+}
+
+#lifestyle
+{
+	font-family: Arial;
+	background-color: #f2f2f2;
+	text-align: justify-all;
+}
+
+#lf2
+{
+	padding-left: 6%;
+	padding-right: 8%;
+}
+
+#lf3
+{
+	padding-right: 13%;
+}
+
+#photodiary2
+{
+	font-family: Arial;
+	background-color: #f2f2f2;
+	text-align: justify-all;
+}
+
+#pd2
+{
+	padding-left: 6%;
+	padding-right: 8%;
+}
+
+#pd3
+{
+	padding-right: 13%;
+}
+
+#contact
+{
+	font-family: Tahoma;
+	text-align: center;
+}
+
+#lifestyle2
+{
+	font-family: Arial;
+	background-color: #f2f2f2;
+	text-align: justify-all;
+}
+
+#lf21
+{
+	padding-left: 6%;
+	padding-right: 8%;
+}
+
+#lf31
+{
+	padding-right: 13%;
+}
+
+.footer
+{
+	font-family: Arial;
+	color: black;
+}
